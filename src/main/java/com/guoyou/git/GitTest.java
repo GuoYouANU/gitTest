@@ -1,0 +1,11 @@
+package com.guoyou.git;
+
+/**
+ * @author leog
+ */
+
+public class GitTest {
+    public static void main(String[] args) {
+        System.out.println("hello git!");
+    }
+}
